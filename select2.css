@@ -29,14 +29,14 @@ Version: @@ver@@ Timestamp: @@timestamp@@
 
 .select2-container .select2-choice {
     display: block;
-    height: 26px;
     padding: 0 0 0 8px;
     overflow: hidden;
     position: relative;
-
     border: 1px solid #aaa;
     white-space: nowrap;
-    line-height: 26px;
+    height: 37px;
+    line-height: 37px;
+    padding: 0 0 0 8px;
     color: #444;
     text-decoration: none;
 
@@ -181,14 +181,13 @@ Version: @@ver@@ Timestamp: @@timestamp@@
 .select2-search {
     display: inline-block;
     width: 100%;
-    min-height: 26px;
+    min-height: 37px;
     margin: 0;
     padding-left: 4px;
     padding-right: 4px;
 
     position: relative;
     z-index: 10000;
-
     white-space: nowrap;
 }
 
@@ -201,7 +200,7 @@ Version: @@ver@@ Timestamp: @@timestamp@@
 .select2-search input {
     width: 100%;
     height: auto !important;
-    min-height: 26px;
+    min-height: 37px;
     padding: 4px 20px 4px 5px;
     margin: 0;
 

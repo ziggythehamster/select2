@@ -47,8 +47,8 @@ Version: 3.2 Timestamp: Mon Sep 10 10:38:04 PDT 2012
     overflow: hidden;
     white-space: nowrap;
     position: relative;
-    height: 26px;
-    line-height: 26px;
+    height: 37px;
+    line-height: 37px;
     padding: 0 0 0 8px;
     color: #444;
     text-decoration: none;
@@ -167,7 +167,7 @@ Version: 3.2 Timestamp: Mon Sep 10 10:38:04 PDT 2012
   display: inline-block;
     white-space: nowrap;
     z-index: 10000;
-  min-height: 26px;
+  min-height: 37px;
   width: 100%;
   margin: 0;
   padding-left: 4px;
@@ -196,7 +196,7 @@ Version: 3.2 Timestamp: Mon Sep 10 10:38:04 PDT 2012
     width:100%;
     margin:0;
     height:auto !important;
-    min-height: 26px;
+    min-height: 37px;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
